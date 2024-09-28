@@ -1,0 +1,11 @@
+Metrics before pruning :
+  Accuracy: 0.99
+  False Acceptance Rate (FAR): 0.01
+  False Rejection Rate (FRR): 0.02
+  Detection Latency (avg): 1.0689 seconds
+
+Metrics after pruning :
+  Accuracy: 0.92
+  False Acceptance Rate (FAR): 0.08
+  False Rejection Rate (FRR): 0.06
+  Detection Latency (avg): 0.5999 seconds
